@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.tallerjava.tp1.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1\target\test-classes;E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1\target\classes;C:\Users\leand\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="America/Buenos_Aires"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="AR"/>
+    <property name="sun.boot.library.path" value="C:\Users\leand\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\leand\AppData\Local\Temp\surefire7008873043432610905\surefirebooter-20260526161116207_3.jar C:\Users\leand\AppData\Local\Temp\surefire7008873043432610905 2026-05-26T16-11-14_620-jvmRun1 surefire-20260526161116207_1tmp surefire_0-20260526161116207_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1\target\test-classes;E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1\target\classes;C:\Users\leand\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\leand"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Users\leand\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\leand\AppData\Local\Temp\surefire7008873043432610905\surefirebooter-20260526161116207_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+7"/>
+    <property name="user.name" value="leand"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.10+7"/>
+    <property name="localRepository" value="C:\Users\leand\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\leand\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="E:\leand\Documents\Universidad\Taller de Programacion Java\Practicos\trabajo-practico-1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\leand\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Eclipse Adoptium\jdk-25.0.1.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Docker\Docker\resources\bin;E:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\CMake\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin;C:\Users\leand\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin;C:\Users\leand\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\leand\AppData\Local\Programs\Python\Python313\;C:\Users\leand\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\leand\AppData\Local\Microsoft\WindowsApps;C:\Users\leand\AppData\Local\Programs\Microsoft VS Code\bin;c:\users\leand\appdata\roaming\python\python313\scripts;c:\users\leand\.local\bin;C:\Program Files\JetBrains\DataGrip 2025.2.4\bin;C:\Users\leand\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.2\bin;C:\raylib\w64devkit\bin;C:\Program Files\JetBrains\CLion 2025.3.3\bin;C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin;C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.10+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.tallerjava.tp1.AppTest" time="0.002"/>
+</testsuite>
